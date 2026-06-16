@@ -301,13 +301,7 @@
         <mxCell id="ls8cWxYLuAbMgRS6AFIr-3" value="漏洞数据" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="500" y="50" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ls8cWxYLuAbMgRS6AFIr-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="210" as="sourcePoint" />
-            <mxPoint x="100" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ls8cWxYLuAbMgRS6AFIr-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ls8cWxYLuAbMgRS6AFIr-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="210" as="sourcePoint" />
             <mxPoint x="100" y="160" as="targetPoint" />

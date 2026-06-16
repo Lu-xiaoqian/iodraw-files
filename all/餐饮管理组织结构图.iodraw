@@ -298,8 +298,8 @@
         <mxCell id="ls8cWxYLuAbMgRS6AFIr-2" value="情报数据" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="120" y="60" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ls8cWxYLuAbMgRS6AFIr-3" value="日志数据" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="100" width="130" height="60" as="geometry" />
+        <mxCell id="ls8cWxYLuAbMgRS6AFIr-3" value="漏洞数据" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="290" y="60" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
